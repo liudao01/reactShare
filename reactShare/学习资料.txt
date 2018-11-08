@@ -1,0 +1,27 @@
+react官方首页
+https://facebook.github.io/react/
+
+react中文
+http://reactjs.cn/react/index.html
+
+React Gitbook 翻译
+https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+
+react中文导航
+http://nav.react-china.org/
+
+jsx首页
+https://facebook.github.io/jsx/
+
+菜鸟 react教程
+http://www.runoob.com/react/react-tutorial.html
+
+
+
+使用React的网站
+https://github.com/facebook/react/wiki/Sites-Using-React
+(支付宝 淘宝商城天猫 亚马逊视频 优衣库  优步  twitter)
+
+在线测试react
+
+http://www.runoob.com/try/try.php?filename=try_react_hw
