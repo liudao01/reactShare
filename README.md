@@ -1,7 +1,8 @@
 # reactShare
 功能模块（A、B、C）
 
-es6 模块化(新的语法特性)，node、chrome都不支持
+es6 模块化(新的语法特性)
+
 Bable6 es6 -> es5（js库）
 
 把一些类，函数，变量写到一个文件中，作为一个功能模块，当要使用这个模块，只需要引入
@@ -9,12 +10,15 @@ Bable6 es6 -> es5（js库）
 创建（支持语法特性，非常便利）
 
 通过这个命令，创建一个react工程
+```
 npm install -g create-react-app
+```
 #到指定目录创建工程
+```
 create-react-app projrect_name
 cd projrect_name
 npm start
-
+```
 
 1. react入门概念
 2. es6箭头函数 使用
